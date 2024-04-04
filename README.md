@@ -1,5 +1,5 @@
 # Jaguar-Toolhead
-A SLM Toolhead using 36528s and [Chube](chubehotend.com)
+An SLM Toolhead using 3628s and [Chube](chubehotend.com)
 
 Shop to purchase from: [Ali Link](https://www.aliexpress.com/item/1005006462378025.html) mention armchair for 5% off
 I'll be talking to him about if people can mention the toolhead for a easier quoting process.
