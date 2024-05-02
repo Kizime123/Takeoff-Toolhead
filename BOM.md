@@ -14,23 +14,23 @@ M3x.5mm tap
 A file
 
 Screws:
-M3x35mm SHCS/ BHCS (SHCS is just always better don't @ me) x10
+M3x35mm SHCS/BHCS (SHCS is just always better don't @ me) x10
 M3x10mm SHCS/BHCS (SHCS is just always better don't @ me) x4
 M3x10mm FHCS x2
 Beacons M3x6mm Ultra Low Profile/ M3x8mm BHCS  x2
 Chube Air:
-M3x30mm SHCS/ BHCS (SHCS is just always better don't @ me) x6mm (Use anything between 30mm - 16mm)
+M3x30mm SHCS/BHCS (SHCS is just always better don't @ me) x6mm (Use anything between 30mm - 16mm)
 
 Chube Conduction:
 M3x16mm SHCS/BHCS (SHCS is just always better don't @ me) x6mm
 
 Extruder Specific:
 Vz Hextrudort:
-M3x10mm SHCS/ BHCS/ Ultra Low Profile x2
+M3x10mm SHCS/BHCS/Ultra Low Profile x2
 
 Sherpa Micro:
 M3x12mm SHCS/BHCS x2
-M3x8mm SHCS/ BHCS x1
+M3x8mm SHCS/BHCS x1
 
 Sherpa Mini:
 M3x12mm SHCS/BHCS x2
@@ -42,7 +42,9 @@ M3x10mm SHCS/BHCS x2
 
 LGX Lite Pro:
 M3x10mm FHCS x2
-M3x8mm BHCS/SHCS x2
+M3x8mm SHCS/BHCS x2
 
 FXD:
-??? x4
+M3x4mm SHCS/BHCS x4
+
+SHCS is ALWAYS the suggestion.
