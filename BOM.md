@@ -18,7 +18,7 @@ x1 Duct SLM/FFF
 
 x2 4mm OD x 3mm ID x 2.5mm L Steel tubes
 
-## **SHCS is ALWAYS the suggestion.**
+### **SHCS is ALWAYS the suggestion.**
 
 x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
 
