@@ -16,7 +16,7 @@ x1 SLM Top Plate
 
 x1 Duct SLM/FFF
 
-X2 4mm OD x 3mm ID x 2.5mm L Steel Tubes
+x2 4mm OD x 3mm ID x 2.5mm L Steel tubes
 
 x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
 
@@ -56,3 +56,14 @@ FXD:
 x2 M3x4mm SHCS/BHCS
 
 **SHCS is ALWAYS the suggestion.**
+
+## Tools:
+90 Degree countersink 
+
+M3x.5mm Tap
+
+2.5mm Drill bit
+
+3.2mm | 1/8" Clearance drill bit (Probably unnecessary)
+
+A file
