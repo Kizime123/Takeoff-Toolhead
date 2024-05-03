@@ -4,11 +4,17 @@ An SLM Toolhead using 3628s and [Chube](https://chubehotend.com)
 Shop to purchase from: [Ali Link](https://www.aliexpress.com/item/1005006462378025.html) mention armchair for 5% off
 
 Extruders Compatible:
+
 LGX Lite Pro
+
 Vz-Hextrudort
+
 Sherpa Mini
+
 Sherpa Micro
+
 Double Folded Ascender (DFA) / Orbiter Ascender (OA pending release)
+
 A3DP FXD
 
 ![Assembly Image](Images/Jaguar%20Toolhead%20Assembly.png)
