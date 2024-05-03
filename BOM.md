@@ -1,50 +1,58 @@
-Chube Air/ Conduction
-Beacon Rev H
-[Delta 3628](https://www.digikey.ca/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720) Fans x2
-An MGN12H Linear Rail
-2 SLM Printed Belt Clips
-1 SLM Mainbody
-1 SLM Top Plate
-1 Duct SLM/ FFF
-4mm OD 3mm ID Steel tubes. Length of 22.5mm
-90degree Countersink
-M3x.5mm tap
-2.5mm Drill bit potentially
-3.2mm | 1/8" Clearance drill bit
-A file
+#BOM
+This is the list of all the parts/tools you need to build this toolhead. You probably have most the screws laying around
 
-Screws:
-M3x35mm SHCS/BHCS (SHCS is just always better don't @ me) x10
-M3x10mm SHCS/BHCS (SHCS is just always better don't @ me) x4
-M3x10mm FHCS x2
-Beacons M3x6mm Ultra Low Profile/ M3x8mm BHCS  x2
+##Parts and screws:
+x1 Chube Air/Conduction
+
+x1 Beacon Rev H
+
+x2 Delta [3628 Fans](https://www.digikey.ca/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)
+
+x2 SLM Printed Belt Clips
+
+x1 SLM Mainbody
+
+x1 SLM Top Plate
+
+x1 Duct SLM/FFF
+
+X2 4mm OD x 3mm ID x 2.5mm L Steel Tubes
+
+x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
+
+x4 M3x10mm SHCS/BHCS (SHCS is just better don't @ me)
+
+x2 M3x10mm FHCS
+
+x2 M3x6mm ULP (BHCS also works, but this should come with your beacon)
+
+###Extruder/Hotend Specific:
 Chube Air:
-M3x30mm SHCS/BHCS (SHCS is just always better don't @ me) x6mm (Use anything between 30mm - 16mm)
+x6 M3x30mm SHCS/BHCS (Use anything between 30mm - 16mm)
 
 Chube Conduction:
-M3x16mm SHCS/BHCS (SHCS is just always better don't @ me) x6mm
+x6 M3x16mm SHCS/BHCS
 
-Extruder Specific:
 Vz Hextrudort:
-M3x10mm SHCS/BHCS/Ultra Low Profile x2
+x2 M3x10mm SHCS/BHCS
 
 Sherpa Micro:
-M3x12mm SHCS/BHCS x2
-M3x8mm SHCS/BHCS x1
+x2 M3x12mm SHCS/BHCS
+x1 M3x8mm SHCS/BHCS (Depends what orientation is used)
 
 Sherpa Mini:
-M3x12mm SHCS/BHCS x2
-M3x8mm SHCS/BHCS x1
+x2 M3x12mm SHCS/BHCS
+x1 M3x8mm SHCS/BHCS
 
 DFA:
-M3x22mm SHCS/BHCS x2
-M3x10mm SHCS/BHCS x2
+x2 M3x22mm SHCS/BHCS
+x2 M3x10mm SHCS/BHCS
 
 LGX Lite Pro:
-M3x10mm FHCS x2
-M3x8mm SHCS/BHCS x2
+x2 M3x10mm FHCS
+x2 M3x8mm SHCS/BHCS
 
 FXD:
-M3x4mm SHCS/BHCS x4
+x2 M3x4mm SHCS/BHCS
 
-SHCS is ALWAYS the suggestion.
+**SHCS is ALWAYS the suggestion.**
