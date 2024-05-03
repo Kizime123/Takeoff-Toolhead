@@ -18,6 +18,8 @@ x1 Duct SLM/FFF
 
 x2 4mm OD x 3mm ID x 2.5mm L Steel tubes
 
+## **SHCS is ALWAYS the suggestion.**
+
 x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
 
 x4 M3x10mm SHCS/BHCS (SHCS is just better don't @ me)
@@ -55,7 +57,6 @@ x2 M3x8mm SHCS/BHCS
 FXD:
 x2 M3x4mm SHCS/BHCS
 
-**SHCS is ALWAYS the suggestion.**
 
 ## Tools:
 90 Degree countersink 
