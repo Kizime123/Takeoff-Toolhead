@@ -1,7 +1,7 @@
-#BOM
+# BOM
 This is the list of all the parts/tools you need to build this toolhead. You probably have most the screws laying around
 
-##Parts and screws:
+## Parts and screws:
 x1 Chube Air/Conduction
 
 x1 Beacon Rev H
@@ -26,7 +26,7 @@ x2 M3x10mm FHCS
 
 x2 M3x6mm ULP (BHCS also works, but this should come with your beacon)
 
-###Extruder/Hotend Specific:
+### Extruder/Hotend Specific:
 Chube Air:
 x6 M3x30mm SHCS/BHCS (Use anything between 30mm - 16mm)
 
