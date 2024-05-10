@@ -17,6 +17,6 @@ Double Folded Ascender (DFA) / Orbiter Ascender (OA pending release)
 
 A3DP FXD
 
-![Assembly Image](Images/Jaguar%20Toolhead%20Assembly.png)
+![Assembly Image](Images/Takeoff%20Toolhead%20Assembly.png)
 
 <a href='https://ko-fi.com/burgo' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
