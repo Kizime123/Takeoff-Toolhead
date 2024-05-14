@@ -65,4 +65,6 @@ M3x.5mm Tap
 
 3.2mm | 1/8" Clearance drill bit (Probably unnecessary)
 
+4mm Drill bit (For filament path)
+
 A file
