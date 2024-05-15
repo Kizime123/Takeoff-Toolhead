@@ -4,7 +4,7 @@ This is the list of all the parts/tools you need to build this toolhead. **SHCS 
 ## Parts and screws:
 x1 Chube Air/Conduction
 
-x1 Beacon Rev H
+x1 Beacon Rev H (SLM Ducts WILL NOT work with Rev D)
 
 x2 Delta [3628 Fans](https://www.digikey.ca/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)
 
@@ -16,7 +16,7 @@ x1 SLM Top Plate
 
 x1 Duct SLM/FFF
 
-x2 4mm OD x 3mm ID x 2.5mm L Steel tubes
+x2 4mm OD x 3mm ID x 22.5mm L Steel tubes
 
 x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
 
@@ -27,10 +27,7 @@ x2 M3x10mm FHCS
 x2 M3x6mm ULP (BHCS also works, but this should come with your beacon)
 
 ### Extruder/Hotend Specific:
-Chube Air:
-x6 M3x30mm SHCS/BHCS (Use anything between 30mm - 16mm)
-
-Chube Conduction:
+Chube:
 x6 M3x16mm SHCS/BHCS
 
 Vz Hextrudort:
@@ -64,5 +61,7 @@ M3x.5mm Tap
 2.5mm Drill bit
 
 3.2mm | 1/8" Clearance drill bit (Probably unnecessary)
+
+4mm Drill bit (For filament path)
 
 A file
