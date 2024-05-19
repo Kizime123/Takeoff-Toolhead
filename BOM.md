@@ -58,6 +58,8 @@ x2 M3x4mm SHCS/BHCS
 
 M3x.5mm Tap
 
+M3x.5mm Bottoming Tap (for the duct)
+
 2.5mm Drill bit
 
 3.2mm | 1/8" Clearance drill bit (Probably unnecessary)
