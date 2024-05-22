@@ -20,7 +20,7 @@ x2 4mm OD x 3mm ID x 22.5mm L Steel tubes
 
 x10 M3x35mm SHCS/BHCS (SHCS is just better don't @ me)
 
-x4 M3x10mm SHCS/BHCS (SHCS is just better don't @ me)
+x4 M3x8mm SHCS/BHCS (SHCS is just better don't @ me. As well as a real option now lmfao)
 
 x2 M3x10mm FHCS
 
@@ -65,5 +65,7 @@ M3x.5mm Bottoming Tap (for the duct)
 3.2mm | 1/8" Clearance drill bit (Probably unnecessary)
 
 4mm Drill bit (For filament path)
+
+Aluminum Foil Tape (For SLM Duct screw covers and fdm duct faces beside chube)
 
 A file
