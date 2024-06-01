@@ -13,3 +13,6 @@ Aluminum Foil for ducts (added)
 
 Have an older version of takeoff. What parts are reusable?
 The Mainbody + Duct are the only parts that are not reusable with the current changes. I initially decided that for better airflow characteristics, the maintenance far outweighs the cons when you use aluminum foil to cover those sections.
+
+2024-06-01
+Add support for orbiter v2

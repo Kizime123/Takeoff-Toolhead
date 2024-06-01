@@ -52,6 +52,8 @@ x2 M3x8mm SHCS/BHCS
 FXD:
 x2 M3x4mm SHCS/BHCS
 
+Orbiter v2:
+x2 M3x8mm SHCS/BHCS
 
 ## Tools:
 90 Degree countersink 
