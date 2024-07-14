@@ -6,4 +6,6 @@ Cbon for the initial K3 ducts which I've borrowed the geometry from for my ducti
 
 Tiger3dPrinting for his unparallel toolhead I was inspired by. [Tigers Instagram](https://www.instagram.com/tiger3dprinting/)
 
+TurtleCrawler for making Takeoff more pretty (Fillets are love).
+
 All the other people too who've bounced back ideas along the way with me/ helped me learn this much!
