@@ -27,3 +27,5 @@ Orbiter V2
 
 Want help/ learn more: Join my discord!
 https://discord.gg/6pRs2kgsKK
+
+BIG Shoutout to Turtlecrawler for helping me redraw the mainbody, a clean timeline is always fun in the end.
