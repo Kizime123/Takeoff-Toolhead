@@ -48,6 +48,6 @@ The belt path relies on you deflecting the belt with itself so that it's straigh
 
 **Want help/ learn more: Join my discord!**
 
-[![Join the Discord](https://discord.com/api/guilds/1192556731952275476/widget.png?style=banner3](https://discord.gg/6pRs2kgsKK)
+[![Join the Discord](https://discord.com/api/guilds/1192556731952275476/widget.png?style=banner3)](https://discord.gg/6pRs2kgsKK)
 
 ###BIG Shoutout to Turtlecrawler for helping me redraw the mainbody, a clean timeline is always fun in the end.
