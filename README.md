@@ -1,27 +1,37 @@
-# Takeoff-Toolhead
+# Takeoff-Toolhead-CLAMPS!
 Is it about time to *takeoff* your current toolhead? Well your in the right spot!
 
-An SLM Toolhead using 3628s and [Chube](https://chubehotend.com)
+The **ONLY** fully open source SLM voron toolhead
 
-Shop to purchase from: [Ali Link](https://www.aliexpress.com/item/1005006462378025.html) mention armchair for 5% off
+An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss! You will have some Y loss unless you have a click clack door, a v2.4 where you can move the bed or a 4040 based frame such as a doomcube.
+
+## [Luke's Laboratory](https://lukeslabonline.com/) is going to be selling kits for takeoff! I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
 Extruders Compatible:
 
+Option A Has mounts for:
 LGX Lite Pro
-
 Vz-Hextrudort
+Sherpa mini (NO K FACE)
+Sherpa Micro (With K Face). Mellows sherpa micro k face isn't supported as its not the stock length.
+Orbiter 2/ Peopoly Lancer Orbiter 2 mount
 
-Sherpa Mini
+Option B Has mounts for:
+Sherpa Mini (with K face), Fysetc CNC Sherpa mini supported
+Peopoly Lancer new/old (rotated COM for both)
+DFA/ Orbiter Ascender (PENDING OA Release)
+A3DP FXD 
 
-Sherpa Micro
+![Side View Image](Images/Takeoff%20Side%20Shot.png)
+![Front View](Images/Takeoff%20Front%20View.png)
+![The Purrrfect Toolhead](Images/Purrrfect%20Top%20Plate.png)
 
-Double Folded Ascender (DFA) / Orbiter Ascender (OA pending release)
+![My Beautiful Toolhead installation](Images/Burgos%20install.jpg)
 
-A3DP FXD
-
-Orbiter V2
-
-![Assembly Image](Images/Takeoff%20Toolhead%20Assembly.png)
+## How does that belt path work?
+The belt path relys on you deflecting the belt with itself so that it's straight, the belt must be feed with another piece of belt (or itself) near the XY joints so its parallel.
+![Monolith Belt Install](Images/Monolith%20Belt%20Path.png)
+![Voron Belt Install](Images/Voron%20Belt%20Path.png)
 
 <a href='https://ko-fi.com/burgo' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
