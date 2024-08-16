@@ -41,6 +41,8 @@ A3DP FXD
 
 ## How does that belt path work?
 The belt path relies on you deflecting the belt with itself so that it's straight, the belt must be feed with another piece of belt (or itself) near the XY joints so it's parallel.
+
+
 ![Monolith Belt Install](Images/Monolith%20Belt%20Path.png)
 ![Voron Belt Install](Images/Voron%20Belt%20Path.png)
 
