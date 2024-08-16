@@ -3,7 +3,7 @@ Is it about time to *takeoff* your current toolhead? Well your in the right spot
 
 The **ONLY** fully open source SLM voron toolhead
 
-An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss! You will have some Y loss unless you have a click clack door, a v2.4 where you can move the bed or a 4040 based frame such as a doomcube.
+An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss! You will have some Y loss (17mm from hitting into the door) unless you have a click clack door, a v2.4 where you can move the bed or a 4040 based frame such as a doomcube.
 
 ## [Luke's Laboratory](https://lukeslabonline.com/) is going to be selling kits for takeoff! I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
