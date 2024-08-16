@@ -46,12 +46,8 @@ The belt path relies on you deflecting the belt with itself so that it's straigh
 
 <a href='https://ko-fi.com/burgo' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
-><br/>
->[!NOTE]
->**Want help/ learn more: Join my discord!**
->
->![Join the Discord](https://discord.com/api/guilds/1192556731952275476/widget.png?style=banner3)(https://discord.gg/6pRs2kgsKK)
-><br/>
+**Want help/ learn more: Join my discord!**
 
+![Join the Discord](https://discord.com/api/guilds/1192556731952275476/widget.png?style=banner3)(https://discord.gg/6pRs2kgsKK)
 
 ###BIG Shoutout to Turtlecrawler for helping me redraw the mainbody, a clean timeline is always fun in the end.
