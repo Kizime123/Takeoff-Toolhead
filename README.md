@@ -10,16 +10,25 @@ An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X l
 Extruders Compatible:
 
 Option A Has mounts for:
+
 LGX Lite Pro
+
 Vz-Hextrudort
+
 Sherpa mini (NO K FACE)
+
 Sherpa Micro (With K Face). Mellows sherpa micro k face isn't supported as its not the stock length.
+
 Orbiter 2/ Peopoly Lancer Orbiter 2 mount
 
 Option B Has mounts for:
-Sherpa Mini (with K face), Fysetc CNC Sherpa mini supported
+
+Sherpa Mini (with K face), Fysetc CNC Sherpa mini supported 
+
 Peopoly Lancer new/old (rotated COM for both)
+
 DFA/ Orbiter Ascender (PENDING OA Release)
+
 A3DP FXD 
 
 ![Side View Image](Images/Takeoff%20Side%20Shot.png)
