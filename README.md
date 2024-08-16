@@ -9,7 +9,8 @@ An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X l
 
 Extruders Compatible:
 
-Option A Has mounts for:
+<u>Option A Has mounts for:</u>
+
 
 LGX Lite Pro
 
@@ -21,7 +22,8 @@ Sherpa Micro (With K Face). Mellows sherpa micro k face isn't supported as its n
 
 Orbiter 2/ Peopoly Lancer Orbiter 2 mount
 
-Option B Has mounts for:
+
+<u>Option B Has mounts for: </u>
 
 Sherpa Mini (with K face), Fysetc CNC Sherpa mini supported 
 
@@ -38,7 +40,7 @@ A3DP FXD
 ![My Beautiful Toolhead installation](Images/Burgos%20install.jpg)
 
 ## How does that belt path work?
-The belt path relys on you deflecting the belt with itself so that it's straight, the belt must be feed with another piece of belt (or itself) near the XY joints so its parallel.
+The belt path relies on you deflecting the belt with itself so that it's straight, the belt must be feed with another piece of belt (or itself) near the XY joints so it's parallel.
 ![Monolith Belt Install](Images/Monolith%20Belt%20Path.png)
 ![Voron Belt Install](Images/Voron%20Belt%20Path.png)
 
