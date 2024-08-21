@@ -99,6 +99,7 @@ x2 M3x10mm SHCS/BHCS
 
 
 LGX Lite Pro:
+
 x1 Top Plate A
 
 x2 M3x8mm FHCS
@@ -112,17 +113,20 @@ x1 Top Plate B
 
 x4 M3x5mm SHCS/BHCS
 
+
 Orbiter v2:
 
 x1 Top Plate A
 
 x2 M3x8mm SHCS/BHCS
 
+
 Peopoly Lancer:
 
 x1 Top Plate B
 
 x2 M3x8mm SHCS/BHCS
+
 
 ## Tools:
 90 Degree countersink 
