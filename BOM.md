@@ -1,7 +1,7 @@
 # BOM
 This is the list of all the parts/tools you need to build this toolhead. **SHCS is ALWAYS the suggestion.**
 
-## [Luke's Laboratory](https://lukeslabonline.com/) is going to be selling kits for takeoff! I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
+## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
 ## [3Dkatten](https://3dkatten.eu/) will be buying some as well from Luke's Laboratory with the same deal for me!
 
