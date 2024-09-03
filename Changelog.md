@@ -38,26 +38,51 @@ Added holes for dragon pattern hotends
 Many of the geometry has changed so I won't be noting it all down. Most of the changes occured in my discord
 
 BOM Changes
+
 Bye bye clip specific hardware!
+
 x2 4mm OD x 3mm ID x 22.5mm L Steel tubes (removed)
+
 x2 SLM Printed Belt Clips (removed)
+
 
 1 less M3x35mm (removed)
 M3x35mm Switched to BHCS focused due to the duct
 
+
 x2 Laser Cut Belt Clamps  (added)
 
+
 x4 M3x8mm SHCS/BHCS (removed)
+
 
 x2 M3x10mm FHCS (removed)
 x2 M3x8mm FHCS (added)
 
+
 MGN9H Specific:
+
 1x MGN9H 3mm Spacer (Accept unparrallel belts with a 1/8" spacer as an american or sand it down!) (added)
+
 x4 M3x8 SHCS/BHCS (added)
 
+
 MGN12H Specific:
+
 x4 M3x6mm SHCS/BHCS (SHCS is just better don't @ me.) (added)
+
 
 Chube: x6 M3x16mm SHCS/BHCS (removed)
 x6 M3x12mm SHCS/BHCS (added)
+
+
+2024-09-03
+V2.1 
+
+This update was alot smaller, I had parts come in from in3dtec that had worked but could use a bit more tolerancing. 
+
+Ziptie slots had width tolerances changed from 2.8mm to 3.3mm (chube wire holes)/ 3.1mm (in whiskers) ![alt text](https://i.gyazo.com/6e2ee35f38c17a7003ab9c5c4a4f7c74.png)
+
+The bowden tube hole was changed from 4.3mm to 4.4mm as it was a bit too snug ![alt text](https://i.gyazo.com/e04a09f296d95e4ea08a01b6428f8323.png)
+
+The radius before belts exit was changed from .5mm - 1mm ![alt text](https://i.gyazo.com/8f10509e1e3be621eca2221497f8200f.png)
