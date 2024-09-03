@@ -1,7 +1,7 @@
 # BOM
 This is the list of all the parts/tools you need to build this toolhead. **SHCS is ALWAYS the suggestion.**
 
-## [Luke's Laboratory](https://lukeslabonline.com/) is going to be selling kits for takeoff! I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
+## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
 ## [3Dkatten](https://3dkatten.eu/) will be buying some as well from Luke's Laboratory with the same deal for me!
 
@@ -43,53 +43,90 @@ There are two main top plates, A or B
 ** Laser cut plates DO NOT support k face extruders **
 
 Option A Has mounts for:
+
 LGX Lite Pro
+
 Vz-Hextrudort
+
 Sherpa mini (NO K FACE)
+
 Sherpa Micro (With K Face). Mellows sherpa micro k face isn't supported as its not the stock length.
+
 Orbiter 2/ Peopoly Lancer Orbiter 2 mount
 
 Option B Has mounts for:
 Sherpa Mini (with K face), Fysetc cnc Sherpa mini supported
+
 Peopoly Lancer new/old (rotated COM for both)
+
 DFA/ Orbiter Ascender (PENDING OA Release)
+
 A3DP FXD 
 
+
 Vz Hextrudort:
+
 x1 Top Plate A
+
 x2 M3x10mm SHCS/BHCS
+
 
 Sherpa Micro:
+
 x1 Top Plate A
+
 x2 M3x12mm SHCS/BHCS
+
 x1 M3x8mm SHCS/BHCS
+
 
 Sherpa Mini:
+
 x1 Top Plate B (For K face support)
+
 x2 M3x12mm SHCS/BHCS
+
 x1 M3x8mm SHCS/BHCS
 
+
 DFA:
+
 x1 Top Plate B
+
 x2 M3x25mm SHCS/BHCS
+
 x2 M3x10mm SHCS/BHCS
 
+
 LGX Lite Pro:
+
 x1 Top Plate A
+
 x2 M3x8mm FHCS
+
 x2 M3x6mm SHCS/BHCS
 
+
 FXD:
+
 x1 Top Plate B
+
 x4 M3x5mm SHCS/BHCS
 
+
 Orbiter v2:
+
 x1 Top Plate A
+
 x2 M3x8mm SHCS/BHCS
 
+
 Peopoly Lancer:
+
 x1 Top Plate B
+
 x2 M3x8mm SHCS/BHCS
+
 
 ## Tools:
 90 Degree countersink 
