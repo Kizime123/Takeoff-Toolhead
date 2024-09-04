@@ -10,6 +10,8 @@ An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X l
 
 ## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
+## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
+
 Extruders Compatible:
 
 <u>Option A Has mounts for:</u>
