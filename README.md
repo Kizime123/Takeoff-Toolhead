@@ -1,5 +1,5 @@
 # Takeoff-Toolhead-Clamps
-Is it about time to *takeoff* your current toolhead? Well your in the right spot!
+Is it about time to *takeoff* your current toolhead? Well you're in the right spot!
 
 The **ONLY** fully open source SLM voron toolhead
 
