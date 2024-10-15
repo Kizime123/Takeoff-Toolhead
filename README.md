@@ -1,16 +1,16 @@
-# Takeoff-Toolhead-CLAMPS!
+# Takeoff-Toolhead-Clamps
 Is it about time to *takeoff* your current toolhead? Well your in the right spot!
 
 The **ONLY** fully open source SLM voron toolhead
 
-An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss! You will have some Y loss (17mm from hitting into the door) unless you have a click clack door, a v2.4 where you can move the bed or a 4040 based frame such as a doomcube.
+An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss. You will have some Y loss (17mm~ from hitting into the front door) unless you have a [clicyk clacky door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), a v2.4 where you can move the bed back or a 4040 based frame such as a doomcube.
 
 > [!WARNING]  
-> On tridents you need to cut your rear and front left leadscrew or use these https://www.printables.com/model/486638-voron-trident-z-steppers-spacers
+> On tridents you need to cut your rear and front left leadscrew or use [these](https://www.printables.com/model/486638-voron-trident-z-steppers-spacers) (recommended) or else you **will** lose travel
 
-## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
+## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale. If you don't wanna wait/want to support me purchase from them!
 
-## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
+## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale. If you don't wanna wait/want to support me purchase from them!
 
 Extruders Compatible:
 
@@ -21,20 +21,20 @@ LGX Lite Pro
 
 Vz-Hextrudort
 
-Sherpa mini (NO K FACE)
+Sherpa mini (No K-face)
 
-Sherpa Micro (With K Face). Mellows sherpa micro k face isn't supported as its not the stock length.
+Sherpa Micro (With K-face), Mellow CNC Sherpa Micro supported, but no K-face is available
 
-Orbiter 2/ Peopoly Lancer Orbiter 2 mount
+Orbiter 2/Peopoly Lancer Orbiter 2 Version
 
 
 <u>Option B Has mounts for: </u>
 
-Sherpa Mini (with K face), Fysetc CNC Sherpa mini supported 
+Sherpa Mini (with K-face), Fysetc CNC Sherpa Mini supported 
 
 Peopoly Lancer new/old (rotated COM for both)
 
-DFA/ Orbiter Ascender (PENDING OA Release)
+DFA/Orbital Ascender (PENDING OA RELEASE)
 
 A3DP FXD 
 
