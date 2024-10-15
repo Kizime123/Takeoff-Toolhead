@@ -3,7 +3,7 @@ Is it about time to *takeoff* your current toolhead? Well your in the right spot
 
 The **ONLY** fully open source SLM voron toolhead
 
-An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss. You will have some Y loss (17mm~ from hitting into the front door) unless you have a [clicyk clacky door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), a v2.4 where you can move the bed back or a 4040 based frame such as a doomcube.
+An SLM Toolhead using 3628s and [Chube](https://chubehotend.com) without any X loss. You will have some Y loss (17mm~ from hitting into the front door) unless you have a [clicky clacky door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), a v2.4 where you can move the bed back or a 4040 based frame such as a doomcube.
 
 > [!WARNING]  
 > On tridents you need to cut your rear and front left leadscrew or use [these](https://www.printables.com/model/486638-voron-trident-z-steppers-spacers) (recommended) or else you **will** lose travel
