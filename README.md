@@ -21,7 +21,7 @@ LGX Lite Pro
 
 Vz-Hextrudort
 
-Sherpa mini (No K-face)
+Sherpa Mini (No K-face)
 
 Sherpa Micro (With K-face), Mellow CNC Sherpa Micro supported, but no K-face is available
 
