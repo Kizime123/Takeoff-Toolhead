@@ -9,7 +9,7 @@ An SLM toolhead using 3628s and [Chube](https://chubehotend.com), with no X loss
 > For tridents, you need to cut the front left and rear leadscrew, or use [these](https://www.printables.com/model/486638-voron-trident-z-steppers-spacers) (recommended), to avoid losing travel
 
 > [!WARNING]  
-> For those trying to hit high tension since the mount is clamping u need a pretension tool such as this 1. [Pretension Tool](https://www.printables.com/model/1027579-sovol-sv08-belt-helper-for-x-carriage)
+> For those aiming for high belt tensions, a pretension tool is necessary since the mount uses clamping. I recommend using [this one](https://www.printables.com/model/1027579-sovol-sv08-belt-helper-for-x-carriage).
 
 ## Luke's Laboratory is [selling kits for takeoff!](https://lukeslabonline.com/products/takeoff-toolhead) I'll be getting a percentage of each sale. If you don't wanna wait/want to support me purchase from them!
 
