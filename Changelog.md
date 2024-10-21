@@ -86,3 +86,7 @@ Ziptie slots had width tolerances changed from 2.8mm to 3.3mm (chube wire holes)
 The bowden tube hole was changed from 4.3mm to 4.4mm as it was a bit too snug ![alt text](https://i.gyazo.com/e04a09f296d95e4ea08a01b6428f8323.png)
 
 The radius before belts exit was changed from .5mm - 1mm ![alt text](https://i.gyazo.com/8f10509e1e3be621eca2221497f8200f.png)
+
+2024-10-21
+
+This update adds cad for goliath air fdm ducts, chube fdm ducts, a watercooled mainbody and updates the top plate A for 1 which doesn't have extra holes mean't for a change that I reversed. (Was going to have the top plate mountable from top or bottom but didn't fit well)
