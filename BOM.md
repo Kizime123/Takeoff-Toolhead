@@ -6,7 +6,7 @@ This is the list of all the parts/tools you need to build this toolhead. **SHCS 
 ## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale, if you don't wanna wait/ want to support me purchase from them!
 
 ## Parts and screws:
-x1 Chube Air/Conduction (Goliath will be coming soonish just needs new ducts)
+x1 Chube Air/Conduction (Goliath air is untested and unsure if will need a hotend fan)
 
 x1 Beacon Rev H (SLM Ducts WILL NOT work with Rev D)
 
