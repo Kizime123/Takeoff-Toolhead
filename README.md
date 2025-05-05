@@ -15,6 +15,33 @@ An SLM toolhead using 3628s and [Chube](https://chubehotend.com), with no X loss
 
 ## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale. If you don't wanna wait/want to support me purchase from them!
 
+##Klipper Setup https://github.com/KalicoCrew/kalico Kalico is the recommendation for MPC
+
+[beacon]
+x_offset:-23.48
+
+[fan] #only 2 wires
+max_power: 1 #set to .8 for kraken (btt moment)
+off_below: 0.13
+
+[verify_heater extruder] #use with mpc
+max_error: 120
+check_gain_time: 25
+hysteresis: 10
+
+[extruder]
+control = mpc
+heater_power: 120
+#ambient_temp_sensor: temperature_fan chamber #if you have a chamber thermistor
+cooling_fan: fan
+#Recommend 9 minimum FAN_BREAKPOINT for calibration
+
+#Example MPC config from Ericzimmerman
+# block_heat_capacity: 26.1100
+# sensor_responsiveness: 0.115066
+# ambient_transfer: 0.0708064
+# fan_ambient_transfer: 0.0708064, 0.147823, 0.179016, 0.19074, 0.206899, 0.22524, 0.21861
+
 Extruders Compatible:
 
 <u>Option A Has mounts for:</u>
