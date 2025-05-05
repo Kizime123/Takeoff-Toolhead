@@ -40,7 +40,8 @@ cooling_fan: fan
 # block_heat_capacity: 26.1100
 # sensor_responsiveness: 0.115066
 # ambient_transfer: 0.0708064
-# fan_ambient_transfer: 0.0708064, 0.147823, 0.179016, 0.19074, 0.206899, 0.22524, 0.21861```
+# fan_ambient_transfer: 0.0708064, 0.147823, 0.179016, 0.19074, 0.206899, 0.22524, 0.21861
+```
 
 Extruders Compatible:
 
