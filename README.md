@@ -17,7 +17,8 @@ An SLM toolhead using 3628s and [Chube](https://chubehotend.com), with no X loss
 
 ##Klipper Setup https://github.com/KalicoCrew/kalico Kalico is the recommendation for MPC
 
-```[beacon]
+```
+[beacon]
 x_offset:-23.48
 
 [fan] #only 2 wires
