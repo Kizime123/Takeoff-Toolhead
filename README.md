@@ -15,7 +15,7 @@ An SLM toolhead using 3628s and [Chube](https://chubehotend.com), with no X loss
 
 ## 3Dkatten is [selling kits for takeoff!](https://3dkatten.se/en/products/takeoff-toolhead) I'll be getting a percentage of each sale. If you don't wanna wait/want to support me purchase from them!
 
-##Klipper Setup https://github.com/KalicoCrew/kalico Kalico is the recommendation for MPC
+## Klipper Setup https://github.com/KalicoCrew/kalico Kalico is the recommendation for MPC
 
 ```
 [beacon]
