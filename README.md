@@ -44,7 +44,7 @@ cooling_fan: fan
 # fan_ambient_transfer: 0.0708064, 0.147823, 0.179016, 0.19074, 0.206899, 0.22524, 0.21861
 ```
 
-Extruders Compatible:
+## Extruders Compatiblity
 
 <u>Option A Has mounts for:</u>
 
